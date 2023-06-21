@@ -974,7 +974,7 @@ align-items: flex-start;
         transition: 0.3s ;
     }
 
-    #navbar .active{
+    #navbar.active{
         right: 0px;
     }
 
